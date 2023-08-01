@@ -1,0 +1,16 @@
+
+Tugas: Solving Conflict Using Sourcetree
+
+1. Apa yang akan kita pelajari?
+   - GIT: Pengenalan tentang GIT sebagai version control system yang mencatat setiap perubahan pada sourcode.
+   - Fundamental GIT: Perintah-perintah dasar untuk mengoperasikan GIT, seperti init, config, status, add, commit, clone, remote, push, dan pull.
+   - Branch: Penggunaan cabang (branch) dalam GIT untuk melakukan parallel development dan memanajemen pengembangan.
+   - GUI Tools (Sourcetree): Pengenalan tentang Sourcetree, sebuah GUI tool untuk mempermudah operasi GIT.
+
+2. Solving Conflict Using Sourcetree:
+   - Install Diff Merge: Unduh dan instal Diff Merge untuk membantu menyelesaikan konflik saat merging 2 branch.
+   - Konfigurasi: Konfigurasikan Diff Merge pada Sourcetree agar dapat digunakan saat menyelesaikan konflik.
+
+Rangkuman tersebut mencakup topik yang akan dipelajari dalam tugas, seperti pengenalan tentang GIT, perintah-perintah dasar GIT, penggunaan cabang (branch), pengenalan tentang Sourcetree sebagai GUI tool, dan langkah-langkah menyelesaikan konflik menggunakan Sourcetree dengan bantuan Diff Merge. Pastikan Anda mengikuti petunjuk dan instruksi dari dosen Anda saat menyelesaikan tugas ini. Semoga berhasil!
+
+
